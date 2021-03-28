@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sourav B. Roy ( @s13rw81 ). I most code in Python and JavaScript.
+- 👋 Hi, I’m Sourav B. Roy ( @s13rw81 ). I mostly code in Python and JavaScript.
 - 👀 I’m interested in finance and backend development.
 - 🌱 I’m currently learning DS and Algorithms because we all know we cant do without them.
 - 💞️ I’m looking to collaborate on web development or developing algorithmic trading systems
