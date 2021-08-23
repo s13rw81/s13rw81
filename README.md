@@ -2,7 +2,7 @@
 - 👀 I’m interested in finance and backend development.
 - 🌱 I’m currently learning DS and Algorithms because we all know we cant do without them.
 - 💞️ I’m looking to work in python delevopment roles.
-- 📫 Reach me on https://t.me/s13rw81
+- 📫 Reach me on https://t.me/s13rw81 and on Skype using https://join.skype.com/invite/v2710RzU5EpV
 - 🙏 Thanks for stopping by.
 
 <!---
