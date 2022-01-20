@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sourav B. Roy ([@s13rw81](https://s13rw81.github.io)). I mostly code in Python.
 - 👀 I’m interested in finance and backend development.
 - 🌱 I’m currently learning DS and Algorithms because we all know we cant do without them.
-- 💞️ I’m looking to work in python delevopment roles.
+- 💞️ I’m looking to work in python delevopment roles or help you code or ([backtest](https://www.backtrader.com/)) your billion dollar trading strategy for you.
 - 📫 Reach me on https://t.me/s13rw81 and on Skype using https://join.skype.com/invite/v2710RzU5EpV
 - 🙏 Thanks for stopping by.
 
